@@ -1,0 +1,23 @@
+{
+    // The tab key will cycle through the settings when first created
+    // Visit http://wbond.net/sublime_packages/sftp/settings for help
+    
+    // sftp, ftp or ftps
+    "type": "sftp",
+
+    "sync_down_on_open": true,
+    "sync_same_age": true,
+    
+    "host": "59.79.255.25",
+    "user": "wangshaobo",
+    //"password": "6255034.",
+    //"port": "22",
+    
+    "remote_path": "/home/wangshaobo/pycode",
+    //"file_permissions": "664",
+    //"dir_permissions": "775",
+    
+    //"extra_list_connections": 0,
+
+}
+

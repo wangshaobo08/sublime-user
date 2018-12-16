@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
+		"Babel",
+		"DocBlockr",
+		"Emmet",
+		"FTPSync",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"MarkdownEditing",
+		"MySQL Snippets",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PHP MySQLi connection",
+		"ProjectManager",
+		"Pylinter",
+		"Python 3",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple FTP Deploy",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Terminal",
+		"Tomorrow Night Italics Color Scheme",
+		"TrailingSpaces",
+		"Trimmer",
+		"Vintageous",
+		"WordCount"
+	]
+}

@@ -1,0 +1,11 @@
+{
+            "disable_keymap_actions": false, // "all"; "html,css"
+            "date_format" : "%Y-%m-%d %H:%M:%S",
+            "attr": {
+                "author": "sober",
+                "email": "wangshaobo08@gmail.com",
+                "link": "https://www.jianshu.com/u/b2d5110e9a57"
+
+
+            }
+        }
