@@ -1,8 +1,11 @@
 
 {"cmd": ["python", "-u", "$file"],
 
-"path":"C:/Users/admin/AppData/Local/Programs/Python/Python36",
+"path":"C:/softwares/anaconda3",
 
 "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 
-"selector": "source.python"}
+"selector": "source.python",
+
+"encoding":"cp936"
+}

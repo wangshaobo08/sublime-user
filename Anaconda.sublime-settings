@@ -1,9 +1,10 @@
 
 {
-    "python_interpreter":"C:/Users/admin/AppData/Local/Programs/Python/Python36/pythonw.exe",
+    "python_interpreter":"C:/softwares/anaconda3/python.exe",
     "suppress_word_completions":true,
     "suppress_explicit_completions":true,
-    "complete_parameters":false,
+    "complete_parameters":true,
+    "swallow_startup_errors":true,
     "anaconda_linting":false,
     "pep":false,
 }

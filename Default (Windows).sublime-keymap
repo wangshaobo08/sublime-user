@@ -1,6 +1,5 @@
 [
 	{ "keys": ["ctrl+alt+e"], "command": "alignment" },
-	{"anaconda_linting": false},
 
 	{ "keys": ["j", "j"], "command": "exit_insert_mode",
 	    "context":
@@ -10,4 +9,6 @@
 	    ]
 	},
 	{ "keys": ["f5"], "command": "build" },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
+	{"anaconda_linting": false},
 ]
